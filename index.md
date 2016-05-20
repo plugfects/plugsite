@@ -1,12 +1,10 @@
 ---
-title: Urubu Quickstart
+title: Plugfects
 layout: home 
 content:
     - start
-    - content
-    - customize
-    - deploy
-    - more 
+    - Dispositivos
+    - Blog
 tagline:
-    Set up your new Urubu project quickly
+    Pra colocar mais música no mundo.
 ---
